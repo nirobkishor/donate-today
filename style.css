@@ -1,0 +1,54 @@
+body {
+    font-family: 'Rubik', sans-serif;
+    margin: 0;
+}
+
+.background {
+    background-image: url(donation-image/donation13n.jpg);
+    text-align: center;
+    color: white;
+    margin-bottom: 100px;
+}
+
+.adding {
+    padding: 50px 60px 150px 60px;
+}
+
+.margin {
+    margin-bottom: 50px;
+}
+
+.link-button {
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(orange, crimson);
+    padding: 20px 40px;
+    border-radius: 10px;
+    font-weight: 800;
+}
+
+.align {
+    text-align: center;
+}
+
+.flex {
+    display: flex;
+}
+
+
+#extra {
+    margin-left: 60px;
+}
+
+#improved-size {
+    font-size: 60px;
+}
+
+#size-maintaining {
+    font-size: 40px;
+    font-weight: 900;
+}
+
+#font-color {
+    color: gray;
+}
