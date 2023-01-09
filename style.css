@@ -16,6 +16,15 @@ body {
 
 .margin {
     margin-bottom: 50px;
+    color: gray;
+}
+
+.margin2 {
+    margin-bottom: 50px;
+}
+
+.color-added {
+    color: gray;
 }
 
 .margin-left {
