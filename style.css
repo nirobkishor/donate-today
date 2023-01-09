@@ -35,6 +35,52 @@ body {
     display: flex;
 }
 
+.font-color {
+    color: gray;
+    margin-bottom: 50px;
+}
+
+.background-education {
+    width: 50%;
+    margin-left: 10%;
+    margin-right: 5px;
+    margin-bottom: 50px;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 3%;
+    padding-bottom: 50px;
+    background-color: rgb(225, 233, 241);
+}
+
+.background-clothes {
+    width: 50%;
+    margin-left: 2%;
+    margin-right: 5px;
+    margin-bottom: 50px;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 3%;
+    padding-bottom: 50px;
+    background-color: rgb(241, 225, 239);
+}
+
+.background-medicine {
+    width: 50%;
+    margin-left: 2%;
+    margin-right: 10%;
+    margin-bottom: 50px;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 3%;
+    padding-bottom: 50px;
+    background-color: rgb(232, 234, 206);
+}
+
+.resize {
+    width: 65px;
+    height: 65px;
+}
+
 
 #extra {
     margin-left: 60px;
@@ -44,11 +90,14 @@ body {
     font-size: 60px;
 }
 
-#size-maintaining {
-    font-size: 40px;
+.size-maintaining {
+    font-size: 35px;
     font-weight: 900;
 }
 
-#font-color {
-    color: gray;
+#re-organized {
+    background-color: rgb(223, 220, 220);
+    padding: 30px;
+    margin-left: 620px;
+    margin-right: 620px;
 }
