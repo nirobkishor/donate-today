@@ -102,6 +102,21 @@ body {
     height: 65px;
 }
 
+.style-footer {
+    background-color: black;
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 20px;
+}
+
+#header-color {
+    color: coral;
+}
+
+#paragraph-color {
+    color: white;
+}
+
 
 #extra {
     margin-left: 60px;
