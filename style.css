@@ -174,3 +174,7 @@ body {
     margin-right: 200px;
     margin-bottom: 50px;
 }
+
+#center {
+    text-align: center;
+}
